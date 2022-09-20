@@ -13,10 +13,10 @@ html {
 .profile {
 display: inline-block;
 position: absolute;
-right:250px;
-top: 300px;
-width: 250px;
-height: 250px;
+left: 480px;
+top: 120px;
+width: 280px;
+height: 320px;
 margin-bottom: 0;
 border-radius: 50%;
 background-clip: padding-box}
